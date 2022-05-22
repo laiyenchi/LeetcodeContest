@@ -2,6 +2,7 @@
 Problem:
 Maximum Bags With Full Capacity of Rocks
 https://leetcode.com/contest/weekly-contest-294/problems/maximum-bags-with-full-capacity-of-rocks/
+https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 """
 
 
